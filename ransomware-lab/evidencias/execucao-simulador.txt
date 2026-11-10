@@ -1,0 +1,19 @@
+# Execução do simulador de ransomware — teste final
+
+Copia criada: relatorio.txt
+Copia criada: documento.txt
+Arquivo transformado: relatorio.txt.simulado
+Arquivo transformado: documento.txt.simulado
+Nota de resgate simulada criada: LEIA-ME.txt
+Arquivo recuperado: documento.txt
+Arquivo recuperado: relatorio.txt
+Simulacao concluida.
+
+Resultado: SUCESSO
+
+A nota de resgate simulada foi criada automaticamente
+em criptografados/LEIA-ME.txt.
+
+Os dois arquivos fictícios foram recuperados corretamente.
+A integridade foi confirmada pela comparação dos hashes SHA-256,
+registrados em evidencias/hashes-sha256.txt.

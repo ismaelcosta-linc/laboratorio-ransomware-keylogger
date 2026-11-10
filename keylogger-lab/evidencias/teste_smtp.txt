@@ -1,0 +1,60 @@
+LABORATÓRIO DE KEYLOGGER SIMULADO
+Evidências dos testes SMTP
+
+Ambiente:
+Sistema operacional: Debian GNU/Linux 13
+Linguagem: Python 3
+Servidor SMTP: aiosmtpd 1.4.6
+Endereço: 127.0.0.1
+Porta: 8025
+
+TESTE 1 - ENVIO SMTP LOCAL
+
+Objetivo:
+Simular a transmissão de registros fictícios
+para um servidor SMTP local.
+
+Remetente: simulador@laboratorio.test
+Destinatário: destinatario@laboratorio.test
+
+Dados transmitidos:
+[2026-11-10 00:54:02] usuario_teste
+[2026-11-10 00:54:17] senha_falsa
+[2026-11-10 00:54:26] testando123
+
+Resultado:
+O servidor SMTP recebeu a mensagem corretamente,
+incluindo os três registros fictícios.
+
+Status: SUCESSO
+
+
+TESTE 2 - FALHA DE COMUNICAÇÃO
+
+Objetivo:
+Verificar o comportamento do programa quando
+o servidor SMTP não está disponível.
+
+Procedimento:
+O servidor SMTP foi encerrado e o programa
+envio_smtp.py foi executado novamente.
+
+Resultado:
+Falha no envio: [Errno 111] Connection refused
+
+Status: FALHA ESPERADA
+
+
+CONCLUSÃO
+
+Os testes demonstraram o registro voluntário de
+dados fictícios e sua transmissão por SMTP local.
+
+A comunicação depende da disponibilidade do
+servidor de destino.
+
+O experimento não realizou captura oculta de
+teclas nem transmitiu dados para a internet.
+
+O bloqueio por firewall será abordado
+teoricamente na documentação do projeto.

@@ -1,0 +1,40 @@
+================================================
+          SEUS ARQUIVOS FORAM CRIPTOGRAFADOS!
+================================================
+
+ATENÇÃO!
+
+Os arquivos deste diretório foram criptografados.
+
+Em um ataque real de ransomware, criminosos
+poderiam exigir dinheiro para devolver o acesso
+aos arquivos.
+
+MAS EXISTE UM PROBLEMA...
+
+Conforme advertência da professora Isadora Ferrão,
+durante as aulas de cibersegurança Santander/DIO,
+mesmo que a vítima pague UM MILHÃO DE REAIS pelo
+resgate, é possível que jamais recupere seus dados.
+
+O pagamento não garante a recuperação dos arquivos.
+Criminosos podem simplesmente exigir ainda mais
+dinheiro ou abandonar a vítima.
+
+================================================
+             AVISO EDUCACIONAL
+================================================
+
+Esta mensagem foi criada para atender a um
+requisito apresentado pela professora Isadora
+Ferrão durante sua aula de cibersegurança.
+
+O experimento utiliza arquivos fictícios e
+uma transformação reversível baseada em XOR.
+
+Nenhum pagamento é necessário.
+Os arquivos podem ser recuperados pelo próprio
+simulador desenvolvido para este laboratório.
+
+Projeto educacional — Santander/DIO.
+================================================

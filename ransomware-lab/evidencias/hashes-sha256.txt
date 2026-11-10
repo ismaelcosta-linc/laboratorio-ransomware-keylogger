@@ -1,0 +1,4 @@
+092b2bd59c606060b3940699cee83333f263deeb83d481b4416a951916fa8be2  /home/linc/workspace/malware-project/ransomware-lab/arquivos_teste/documento.txt
+c7d66195fb806cadef73a9d44b252b2148a5d13a788f3c844b2e46996e3b384a  /home/linc/workspace/malware-project/ransomware-lab/arquivos_teste/relatorio.txt
+092b2bd59c606060b3940699cee83333f263deeb83d481b4416a951916fa8be2  /home/linc/workspace/malware-project/ransomware-lab/recuperados/documento.txt
+c7d66195fb806cadef73a9d44b252b2148a5d13a788f3c844b2e46996e3b384a  /home/linc/workspace/malware-project/ransomware-lab/recuperados/relatorio.txt

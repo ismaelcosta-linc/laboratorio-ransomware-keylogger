@@ -1,0 +1,21 @@
+# SIMULAÇÃO DE RANSOMWARE
+
+**ATENÇÃO: ESTE É UM EXPERIMENTO CONTROLADO.**
+
+Os arquivos fictícios deste trabalho foram submetidos a uma transformação reversível apenas para demonstrar o funcionamento básico de um ransomware.
+
+**Informações do experimento:**
+- Ambiente: Debian GNU/Linux 13
+- Linguagem: Python 3.13.5
+- Técnica: transformação XOR com chave didática
+- Arquivos utilizados: documento.txt e relatorio.txt
+- Recuperação: realizada com sucesso
+- Integridade: confirmada por hashes SHA-256
+
+Nenhum arquivo pessoal foi afetado.
+
+Este experimento não realiza cobranças, não estabelece comunicação externa e não executa ações maliciosas.
+
+**Finalidade:** estudar o comportamento de ransomware e compreender a importância de backups, ferramentas de proteção e boas práticas de segurança.
+
+Projeto educacional — Santander/DIO.
