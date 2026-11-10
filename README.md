@@ -94,4 +94,6 @@ A simulação de ransomware demonstrou a transformação e a recuperação de ar
 
 As atividades contribuíram para a compreensão dos riscos associados a esses tipos de malware e da importância das medidas preventivas de segurança.
 
+Este projeto foi desenvolvido como parte das atividades práticas do curso de Cibersegurança Santander/DIO, com base nos conhecimentos transmitidos pela professora **Isadora Ferrão**, cujas orientações contribuíram para a compreensão dos riscos associados a esses tipos de malware e para a importância da adoção de medidas preventivas.
+
 **Aviso:** este projeto possui finalidade exclusivamente educacional. Os programas foram desenvolvidos para simulações controladas e não devem ser utilizados para coletar informações sem autorização ou comprometer sistemas de terceiros.
